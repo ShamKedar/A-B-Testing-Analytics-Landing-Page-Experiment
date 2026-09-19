@@ -225,6 +225,17 @@ Focuses on:
 
 ---
 
+## 📸 Dashboard Preview
+
+### A/B Test Overview
+![A/B Test Overview](images/overview.png)
+
+### User Engagement
+![User Engagement](images/engagement.png)
+
+### Segment Performance
+![Segment Performance](images/segmentation.png)
+
 # 💡 Key Insights
 
 ### Conversion
@@ -288,26 +299,23 @@ Based on the analysis:
 ```text
 AB-Testing-Analytics/
 │
-├── data/
-│   └── AB Testing Data.csv
-│
-├── sql/
-│   ├── data_validation.sql
-│   ├── business_analysis.sql
-│   └── views.sql
-│
-├── python/
-│   └── ab_testing.ipynb
-│
-├── powerbi/
-│   └── AB_Testing_Dashboard.pbix
-│
-├── images/
-│   ├── overview.png
-│   ├── engagement.png
-│   └── segmentation.png
-│
-└── README.md
+├── 📁 data
+│   └── 📄 AB Testing Data.csv
+├── 📁 images
+│   ├── 🖼️ Table Relations.png
+│   ├── 🖼️ engagement analysis.png
+│   ├── 🖼️ overview.png
+│   └── 🖼️ segment analysis.png
+├── 📁 powerbi
+│   └── 📄 AB Testing Dashboard.pbix
+├── 📁 python
+│   ├── 📄 AB_Test_analysis.ipynb
+│   └── 🐍 python script.py
+├── 📁 sql
+│   ├── 📄 business_analysis_queries.sql
+│   ├── 📄 data_validation_queries.sql
+│   └── 📄 views.sql
+└── 📝 README.md
 ```
 
 ---
