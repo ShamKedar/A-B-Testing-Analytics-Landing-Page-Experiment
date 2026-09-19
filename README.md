@@ -231,10 +231,10 @@ Focuses on:
 ![A/B Test Overview](images/overview.png)
 
 ### User Engagement
-![User Engagement](images/engagement analysis.png)
+![User Engagement](images/engagement_analysis.png)
 
 ### Segment Performance
-![Segment Performance](images/segment analysis.png)
+![Segment Performance](images/segment_analysis.png)
 
 # 💡 Key Insights
 
